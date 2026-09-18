@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520">
+  <rect width="720" height="520" fill="#dcebea"/>
+  <circle cx="548" cy="110" r="102" fill="#a9d6d2" opacity=".56"/>
+  <path d="M79 407c159-61 415-63 575 0" fill="none" stroke="#6d9ca0" stroke-width="3" opacity=".42"/>
+  <path d="m115 341 463-55-2 83-458 58z" fill="#67949a"/>
+  <path d="m115 341 463-55 42 28-458 60z" fill="#d1e2df"/>
+  <path d="m115 341 463-55 1-46-463 52z" fill="#fdfcf5"/>
+  <path d="m148 321 408-48" stroke="#a7c7c5" stroke-width="2"/>
+  <path d="m148 335 408-48" stroke="#a7c7c5" stroke-width="2" opacity=".7"/>
+  <path d="m189 276 152-17-4 44-151 18z" fill="#e8f1ed"/>
+  <path d="m356 257 154-18-4 44-153 18z" fill="#c0dcd8"/>
+  <path d="M99 381c9-77 33-126 72-166" fill="none" stroke="#4f807b" stroke-width="4" opacity=".6"/>
+  <path d="M168 227c-20-33-13-59 3-75 25 20 29 46-3 75Zm-21 40c-42-11-57-39-55-61 35 0 58 21 55 61Zm46-53c20-30 48-38 69-32-9 30-34 45-69 32Z" fill="#72a79d" opacity=".77"/>
+  <text x="40" y="54" fill="#0b2a4a" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="3">JAGRITI / CONSIDERED CHOICE</text>
+</svg>

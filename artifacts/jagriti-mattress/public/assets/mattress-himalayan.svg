@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520">
+  <rect width="720" height="520" fill="#dce7e9"/>
+  <path d="m0 257 116-98 99 87 96-122 111 133 93-80 105 80v263H0Z" fill="#a5c3c6" opacity=".48"/>
+  <path d="m0 300 141-74 82 55 113-102 118 111 96-68 170 98v200H0Z" fill="#8cb3b8" opacity=".36"/>
+  <circle cx="553" cy="115" r="78" fill="#f1b87e" opacity=".66"/>
+  <path d="M70 414c177-62 409-63 598 0" fill="none" stroke="#4c8793" stroke-width="3" opacity=".37"/>
+  <path d="m113 344 464-55-4 83-460 59z" fill="#548b98"/>
+  <path d="m113 344 464-55 43 28-461 59z" fill="#b1d2d3"/>
+  <path d="m113 344 464-55 1-46-467 52z" fill="#f8fbf5"/>
+  <path d="m146 324 413-48" stroke="#9bc1c3" stroke-width="2"/>
+  <path d="m146 339 413-48" stroke="#9bc1c3" stroke-width="2" opacity=".7"/>
+  <path d="m185 281 154-17-4 43-153 18z" fill="#cae1df"/>
+  <path d="m354 261 156-18-4 44-155 18z" fill="#b3d1d2"/>
+  <text x="40" y="54" fill="#1e6570" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="3">JAGRITI / SIGNATURE FINISH</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520">
+  <rect width="720" height="520" fill="#d8e9e6"/>
+  <circle cx="552" cy="125" r="74" fill="#f3bd83" opacity=".75"/>
+  <path d="M84 393c122-54 388-61 548 8" fill="none" stroke="#7faeaa" stroke-width="3" opacity=".42"/>
+  <path d="M139 342 563 295l-7 70-416 55z" fill="#8bb2b2"/>
+  <path d="m138 342 425-47 38 25-425 52z" fill="#edf3ec"/>
+  <path d="m138 342 425-47 7-44-424 46z" fill="#fffdf5"/>
+  <path d="m164 321 375-41" stroke="#b7cfca" stroke-width="2"/>
+  <path d="m164 335 375-41" stroke="#b7cfca" stroke-width="2" opacity=".7"/>
+  <path d="m202 275 144-16-5 47-143 16z" fill="#d1e3df"/>
+  <path d="m362 258 134-15-5 47-133 16z" fill="#dcebe5"/>
+  <path d="M105 380c-5-84-2-139 16-184" fill="none" stroke="#507f76" stroke-width="4" opacity=".65"/>
+  <path d="M119 244c-43 0-58-25-62-42 32-5 57 10 62 42Zm4-31c2-36 23-55 48-62 8 28-13 55-48 62Zm-5 76c-39 3-65-12-79-36 30-11 61 3 79 36Z" fill="#79aaa0" opacity=".8"/>
+  <text x="40" y="54" fill="#0b2a4a" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="3">JAGRITI / EVERYDAY EASE</text>
+</svg>

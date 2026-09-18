@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Jagriti Mattress"
+description = "A premium Nepalese mattress and bedding storefront with a calm editorial shopping experience, product discovery, cart, and COD-first checkout flow."
+version = "1.0.0"
+id = "artifacts/jagriti-mattress"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23200
+
+[services.development]
+run = "pnpm --filter @workspace/jagriti-mattress run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/jagriti-mattress", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/jagriti-mattress/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23200"
+BASE_PATH = "/"
